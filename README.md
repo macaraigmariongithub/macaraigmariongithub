@@ -1,16 +1,15 @@
 ### Hi there 👋
+## My name is Marion Macaraig and I love Web Development
 
-<!--
-**macaraigmariongithub/macaraigmariongithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I am a computer science graduate and I'm using my free time to learn more and more.
+- 🔭 I’m still looking for a job related to web development.
+- 💻 Languages: HTML, CSS, JavaScript, PHP, Mysql.
+- 🤓 I’m currently still learning: React, JavaScript, PHP, Laravel framework, visual basic and c# as well.
+- 📫 How to reach me: Message me on my [LinkedIn](https://www.linkedin.com/in/marionChristianmacaraig).
+- ⚡ More about me: I love working out. I do calisthenics workout. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
